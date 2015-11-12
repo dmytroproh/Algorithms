@@ -1,0 +1,6 @@
+c:\users\dmytro\documents\visual studio 2013\Projects\TheLongestSequence\TheLongestSequence\bin\Debug\TheLongestSequence.exe.config
+c:\users\dmytro\documents\visual studio 2013\Projects\TheLongestSequence\TheLongestSequence\obj\Debug\TheLongestSequence.csprojResolveAssemblyReference.cache
+c:\users\dmytro\documents\visual studio 2013\Projects\TheLongestSequence\TheLongestSequence\bin\Debug\TheLongestSequence.exe
+c:\users\dmytro\documents\visual studio 2013\Projects\TheLongestSequence\TheLongestSequence\bin\Debug\TheLongestSequence.pdb
+c:\users\dmytro\documents\visual studio 2013\Projects\TheLongestSequence\TheLongestSequence\obj\Debug\TheLongestSequence.exe
+c:\users\dmytro\documents\visual studio 2013\Projects\TheLongestSequence\TheLongestSequence\obj\Debug\TheLongestSequence.pdb
