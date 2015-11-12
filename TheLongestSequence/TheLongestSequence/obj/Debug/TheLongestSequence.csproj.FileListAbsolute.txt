@@ -4,3 +4,6 @@ c:\users\dmytro\documents\visual studio 2013\Projects\TheLongestSequence\TheLong
 c:\users\dmytro\documents\visual studio 2013\Projects\TheLongestSequence\TheLongestSequence\bin\Debug\TheLongestSequence.pdb
 c:\users\dmytro\documents\visual studio 2013\Projects\TheLongestSequence\TheLongestSequence\obj\Debug\TheLongestSequence.exe
 c:\users\dmytro\documents\visual studio 2013\Projects\TheLongestSequence\TheLongestSequence\obj\Debug\TheLongestSequence.pdb
+C:\Algorithms\TheLongestSequence\TheLongestSequence\bin\Debug\TheLongestSequence.exe.config
+C:\Algorithms\TheLongestSequence\TheLongestSequence\obj\Debug\TheLongestSequence.exe
+C:\Algorithms\TheLongestSequence\TheLongestSequence\obj\Debug\TheLongestSequence.pdb

@@ -1,0 +1,12 @@
+c:\users\dmytro\documents\visual studio 2013\Projects\IntegerDivisiors\IntegerDivisiors\bin\Debug\IntegerDivisiors.exe.config
+c:\users\dmytro\documents\visual studio 2013\Projects\IntegerDivisiors\IntegerDivisiors\obj\Debug\IntegerDivisiors.csprojResolveAssemblyReference.cache
+c:\users\dmytro\documents\visual studio 2013\Projects\IntegerDivisiors\IntegerDivisiors\bin\Debug\IntegerDivisiors.exe
+c:\users\dmytro\documents\visual studio 2013\Projects\IntegerDivisiors\IntegerDivisiors\bin\Debug\IntegerDivisiors.pdb
+c:\users\dmytro\documents\visual studio 2013\Projects\IntegerDivisiors\IntegerDivisiors\obj\Debug\IntegerDivisiors.exe
+c:\users\dmytro\documents\visual studio 2013\Projects\IntegerDivisiors\IntegerDivisiors\obj\Debug\IntegerDivisiors.pdb
+D:\Algorithms(shkolaSoftheme)\IntegerDivisiors\IntegerDivisiors\bin\Debug\IntegerDivisiors.exe.config
+D:\Algorithms(shkolaSoftheme)\IntegerDivisiors\IntegerDivisiors\obj\Debug\IntegerDivisiors.exe
+D:\Algorithms(shkolaSoftheme)\IntegerDivisiors\IntegerDivisiors\obj\Debug\IntegerDivisiors.pdb
+D:\Algorithms(shkolaSoftheme)\IntegerDivisiors\IntegerDivisiors\bin\Debug\IntegerDivisiors.exe
+D:\Algorithms(shkolaSoftheme)\IntegerDivisiors\IntegerDivisiors\bin\Debug\IntegerDivisiors.pdb
+D:\Algorithms(shkolaSoftheme)\IntegerDivisiors\IntegerDivisiors\obj\Debug\IntegerDivisiors.csprojResolveAssemblyReference.cache
