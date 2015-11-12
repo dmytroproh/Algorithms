@@ -10,3 +10,9 @@ D:\Algorithms(shkolaSoftheme)\IntegerDivisiors\IntegerDivisiors\obj\Debug\Intege
 D:\Algorithms(shkolaSoftheme)\IntegerDivisiors\IntegerDivisiors\bin\Debug\IntegerDivisiors.exe
 D:\Algorithms(shkolaSoftheme)\IntegerDivisiors\IntegerDivisiors\bin\Debug\IntegerDivisiors.pdb
 D:\Algorithms(shkolaSoftheme)\IntegerDivisiors\IntegerDivisiors\obj\Debug\IntegerDivisiors.csprojResolveAssemblyReference.cache
+C:\Algorithms\IntegerDivisiors\IntegerDivisiors\bin\Debug\IntegerDivisiors.exe.config
+C:\Algorithms\IntegerDivisiors\IntegerDivisiors\obj\Debug\IntegerDivisiors.exe
+C:\Algorithms\IntegerDivisiors\IntegerDivisiors\obj\Debug\IntegerDivisiors.pdb
+C:\Algorithms\IntegerDivisiors\IntegerDivisiors\bin\Debug\IntegerDivisiors.exe
+C:\Algorithms\IntegerDivisiors\IntegerDivisiors\bin\Debug\IntegerDivisiors.pdb
+C:\Algorithms\IntegerDivisiors\IntegerDivisiors\obj\Debug\IntegerDivisiors.csprojResolveAssemblyReference.cache

@@ -7,3 +7,6 @@ c:\users\dmytro\documents\visual studio 2013\Projects\TheLongestSequence\TheLong
 C:\Algorithms\TheLongestSequence\TheLongestSequence\bin\Debug\TheLongestSequence.exe.config
 C:\Algorithms\TheLongestSequence\TheLongestSequence\obj\Debug\TheLongestSequence.exe
 C:\Algorithms\TheLongestSequence\TheLongestSequence\obj\Debug\TheLongestSequence.pdb
+C:\Algorithms\TheLongestSequence\TheLongestSequence\bin\Debug\TheLongestSequence.exe
+C:\Algorithms\TheLongestSequence\TheLongestSequence\bin\Debug\TheLongestSequence.pdb
+C:\Algorithms\TheLongestSequence\TheLongestSequence\obj\Debug\TheLongestSequence.csprojResolveAssemblyReference.cache

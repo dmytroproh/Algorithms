@@ -13,13 +13,15 @@ namespace TheLongestSequence
         {
             List<byte> list = new List<byte>();        
             string path = FileGenerator.Create();
-            string byteStryng = File.ReadAllText(path);   
-    
+            string byteStryng = File.ReadAllText(path);
+            Console.WriteLine("intut.txt: {0}",byteStryng);
             foreach (char symbol in byteStryng)   
                list.Add((byte)Char.GetNumericValue(symbol));
             
             int logestSequenceValue = FindLongest(list);
             FileGenerator.Save(logestSequenceValue);
+            Console.WriteLine("output.txt: {0}", logestSequenceValue);
+            Console.ReadKey();
 
         }
 

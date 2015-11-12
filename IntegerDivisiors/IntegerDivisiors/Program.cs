@@ -10,14 +10,16 @@ namespace IntegerDivisiors
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Pleas, input number:");
             int InputNumber = Convert.ToInt32(Console.ReadLine());
             List<int> listOfDivisiors = new List<int>();
             GetDivisiors(InputNumber, listOfDivisiors);
+            Console.WriteLine("Divisiors: ");
             foreach (var item in listOfDivisiors)
             {
                 Console.WriteLine(item);
             }
+            
             Console.ReadKey();
         }
             
